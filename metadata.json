@@ -1,0 +1,6 @@
+{
+  "name": "Narrativa Terrosa",
+  "description": "Periodismo de profundidad sobre Guadalajara de Buga: crónicas, cartografía interactiva y micro-documentales interactivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
